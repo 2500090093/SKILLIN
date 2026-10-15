@@ -1,0 +1,18 @@
+<Form id = "Form"><br>
+Name: <input id="name" ><br>
+Roll Number: <input id="roll" ><br>
+Maths: <input id="maths" type="number" ><br>
+Physics: <input id="physics" type="number" ><br>
+</Form>
+<table border="1">
+    <body = "result"></body>
+    <script src="script.js"></script>
+</table>
+{
+    font_family: arial
+    text_align: center
+}
+input{
+    margin: 5px;
+    padding: 5px;
+}
